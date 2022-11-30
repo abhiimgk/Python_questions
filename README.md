@@ -1,3 +1,2 @@
-# Python_questions
-Basic python problems with their solutions.
+# Python_question
 python problems for beginners with their code.
